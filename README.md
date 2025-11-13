@@ -1,9 +1,5 @@
-## Hi there 👋
-
-<!--
-**kimhwanhui12/kimhwanhui12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# 안녕하세요 👋
+<https://github.com/kimhwanhui12>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
